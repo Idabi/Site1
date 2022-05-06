@@ -1,0 +1,11 @@
+h2 {
+    font-size: 32px;
+    color: coral;
+}
+h2.font-azul{
+    color: blue;
+}
+p{
+    font-size: 14px;
+    color: #666;
+}
